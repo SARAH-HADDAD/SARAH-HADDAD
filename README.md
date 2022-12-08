@@ -9,7 +9,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-HADDAD&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-HADDAD&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 <a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SARAH-HADDAD&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarah's GitHub Stats" />
@@ -19,7 +19,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/sarah-haddad-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarah Haddad" height="30" width="40" /></a>
-<a href="https://twitter.com/Sarahaddad686" target="blank"><img align="center" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Sarah Haddad" height="30" width="40" /></a>
+<a href="https://twitter.com/Sarahaddad686" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Sarah Haddad" height="30" width="40" /></a>
 </p>
 
 
