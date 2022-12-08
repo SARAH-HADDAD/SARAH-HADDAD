@@ -15,3 +15,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SARAH-HADDAD&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarah's GitHub Stats" />
 </a>
 
+##  links to my social media accounts
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
+
+
