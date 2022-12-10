@@ -9,11 +9,12 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-HADDAD&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
-</a>
-<a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SARAH-HADDAD&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Sarah's GitHub Stats" />
 </a>
+<a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-HADDAD&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+</a>
+
 
 ##  Social media accounts
 
