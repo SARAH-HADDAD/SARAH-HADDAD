@@ -20,7 +20,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/sarah-haddad-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarah Haddad" height="30" width="40" /></a>
-<a href="https://twitter.com/Sarahaddad686" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Sarah Haddad" height="30" width="40" /></a>
 </p>
 
 
