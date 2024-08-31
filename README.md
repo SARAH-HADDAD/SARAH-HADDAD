@@ -1,6 +1,6 @@
 # Hello, I'm Sarah Haddad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-USTHB visual computing student with a passion for AI, web development, and design.
+I’m a Visual Computing Graduate passionate about computer vision and new technologies. I enjoy finding creative solutions and using AI to solve problems. I’m looking for opportunities to use my skills in exciting projects that make real impact.
 
 ## 🔧 Technologies & Tools
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
