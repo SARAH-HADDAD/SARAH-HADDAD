@@ -59,7 +59,3 @@ I'm passionate about leveraging computer vision and AI to create innovative solu
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SARAH-HADDAD&color=dc143c" alt="Profile Views" /> 
-</div>
