@@ -3,7 +3,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I'm passionate about leveraging computer vision and AI to create innovative solutions for real-world problems..
+I'm passionate about leveraging computer vision and AI to create innovative solutions for real-world problems.
 
 
 ## 🛠️ Tech Stack
