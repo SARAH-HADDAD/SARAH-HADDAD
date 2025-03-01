@@ -34,17 +34,12 @@ I'm passionate about leveraging computer vision and AI to create innovative solu
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/SARAH-HADDAD">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SARAH-HADDAD&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SARAH-HADDAD&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-HADDAD&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</div>
-
+<a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SARAH-HADDAD&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Sarah's GitHub Stats" />
+</a>
+<a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-HADDAD&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+</a>
 
 ## 🤝 Let's Connect
 
@@ -59,3 +54,10 @@ I'm passionate about leveraging computer vision and AI to create innovative solu
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
+
+
+
+⭐️ From [SARAH-HADDAD](https://github.com/SARAH-HADDAD)
+
+
+
