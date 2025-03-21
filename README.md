@@ -47,9 +47,6 @@ I'm passionate about leveraging computer vision and AI to create innovative solu
   <a href="https://linkedin.com/in/sarah-haddad-it">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:haddads686@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="[https://medium.com/@yourusername](https://medium.com/@sarah-hdd)">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
