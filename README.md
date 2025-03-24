@@ -1,7 +1,7 @@
 # Hello, I'm Sarah Haddad 👋 
 
- **AI Engineer focusing on Computer Vision, with experience in building deep learning models for image recognition, object detection, and image generation. Skilled in PyTorch and TensorFlow, with expertise in data preprocessing, model training, fine-tuning, and deployment.
-Open to freelance projects and new opportunities. **
+AI Engineer focusing on Computer Vision, with experience in building deep learning models for image recognition, object detection, and image generation. Skilled in PyTorch and TensorFlow, with expertise in data preprocessing, model training, fine-tuning, and deployment.
+Open to freelance projects and new opportunities. 
 
 
 ## 🛠️ Tech Stack
