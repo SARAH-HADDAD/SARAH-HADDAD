@@ -1,9 +1,7 @@
 # Hello, I'm Sarah Haddad 👋 
-**Visual Computing Graduate | AI & Computer Vision Enthusiast**
 
-<img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-I'm passionate about leveraging computer vision and AI to create innovative solutions for real-world problems.
+ **AI Engineer focusing on Computer Vision, with experience in building deep learning models for image recognition, object detection, and image generation. Skilled in PyTorch and TensorFlow, with expertise in data preprocessing, model training, fine-tuning, and deployment.
+Open to freelance projects and new opportunities. **
 
 
 ## 🛠️ Tech Stack
