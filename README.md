@@ -27,7 +27,6 @@ Open to freelance projects and new opportunities.
 ### **Tools & Databases**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ## 📈 GitHub Analytics
