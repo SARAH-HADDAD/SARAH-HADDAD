@@ -18,10 +18,15 @@ Open to freelance projects and new opportunities.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?logo=huggingface\&logoColor=black)
 
 ### **Web & Mobile Development**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 ### **Tools & Databases**
