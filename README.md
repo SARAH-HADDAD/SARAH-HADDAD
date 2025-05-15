@@ -46,20 +46,17 @@ Available for freelance projects and open to new opportunities.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-HADDAD&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
 </a>
 
-## 🤝 Let's Connect
+## 🔗 Links & Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarah-haddad-it">
+  <a href="https://linkedin.com/in/sarah-haddad-it" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://medium.com/@sarah-hdd">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+  <a href="https://medium.com/@sarah-hdd" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
-
-
-⭐️ From [SARAH-HADDAD](https://github.com/SARAH-HADDAD)
 
 
 
