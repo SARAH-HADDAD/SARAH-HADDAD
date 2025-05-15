@@ -1,7 +1,8 @@
 # Hello, I'm Sarah Haddad 👋 
 
-AI Engineer focusing on Computer Vision, with experience in building deep learning models for image recognition, object detection, and image generation. Skilled in PyTorch and TensorFlow, with expertise in data preprocessing, model training, fine-tuning, and deployment.
-Open to freelance projects and new opportunities. 
+AI Engineer specializing in Computer Vision — passionate about building robust deep learning models for image recognition, object detection, and generation. Proficient in PyTorch and TensorFlow, with hands-on experience in preprocessing, training, fine-tuning, and deploying models in real-world scenarios.
+
+Available for freelance projects and open to new opportunities.
 
 
 ## 🛠️ Tech Stack
@@ -18,7 +19,7 @@ Open to freelance projects and new opportunities.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?logo=huggingface\&logoColor=black)
@@ -51,9 +52,9 @@ Open to freelance projects and new opportunities.
   <a href="https://linkedin.com/in/sarah-haddad-it">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://medium.com/@yourusername](https://medium.com/@sarah-hdd)">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+<a href="https://medium.com/@sarah-hdd">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 </p>
 
 
