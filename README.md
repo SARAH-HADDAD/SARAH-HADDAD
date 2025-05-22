@@ -55,6 +55,9 @@ Available for freelance projects and open to new opportunities.
   <a href="https://medium.com/@sarah-hdd" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+    <a href="https://sarah-haddad.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2B9348?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 
