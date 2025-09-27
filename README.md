@@ -1,8 +1,9 @@
 # Hello, I'm Sarah Haddad 👋 
 
-AI Engineer specializing passionate about building robust deep learning models for image recognition, object detection, and generation. Proficient in PyTorch and TensorFlow, with hands-on experience in preprocessing, training, fine-tuning, and deploying models in real-world scenarios.
+AI Engineer with experience in Computer Vision, NLP, and Large Language Models (LLMs).  
+Worked on image recognition, object detection, image generation, and fine-tuning language models.  
 
-Available for freelance projects and open to new opportunities.
+Available for freelance projects and open to new opportunities.  
 
 
 ## 🛠️ Tech Stack
@@ -49,7 +50,7 @@ Available for freelance projects and open to new opportunities.
 ## 🔗 Links & Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarah-haddad-it" target="_blank">
+  <a href="https://linkedin.com/in/sarah-haddad-ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@sarah-hdd" target="_blank">
