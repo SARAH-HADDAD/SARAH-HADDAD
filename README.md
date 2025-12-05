@@ -38,14 +38,6 @@ Available for freelance projects and open to new opportunities.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux\&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code\&logoColor=white)
-## 📈 GitHub Analytics
-
-<a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SARAH-HADDAD&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Sarah's GitHub Stats" />
-</a>
-<a href="https://github.com/SARAH-HADDAD/SARAH-HADDAD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-HADDAD&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
-</a>
 
 ## 🔗 Links & Contact
 
