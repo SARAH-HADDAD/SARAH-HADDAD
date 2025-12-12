@@ -3,7 +3,7 @@
 AI Engineer with experience in Computer Vision, NLP, and Large Language Models (LLMs).  
 Worked on image recognition, object detection, image generation, and fine-tuning language models.  
 
-Available for freelance projects and open to new opportunities.  
+Available for freelance projects.  
 
 
 ## 🛠️ Tech Stack
